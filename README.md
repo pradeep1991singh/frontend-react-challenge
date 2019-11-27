@@ -2,7 +2,7 @@
 
 ## Demo
 
-Deployed to now and available at - [Demo](https://frontend-challenge-ojxqf5o4r.now.sh)
+Deployed to now and available at - [Demo](https://frontend-challenge.pradeep1991singh.now.sh)
 
 
 ## Installation
